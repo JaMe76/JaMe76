@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋. I am Janis and I live in Hamburg, Germany.
 
-<!--
-**JaMe76/JaMe76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🦱 I am a freelance consultant and machine learning engineer. I can look back on almost 20 years of professional experience. This includes some time in the academic environment as well as consulting and development work in data management for financial institutions and capital management companies. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on [*Deepdoctection*](https://github.com/deepdoctection/deepdoctection) among some other stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I am mainly interested in Document AI and Intelligent Document Processing topics.   
+
+📫 You can reach me [here](https://www.linkedin.com/in/dr-janis-meyer/).
+
+💬 Ask me about: Document AI, Information Extraction, ML Ops and of course LLMs 😄.
+
+🌱 I’m currently learning everything I need to get things done.
