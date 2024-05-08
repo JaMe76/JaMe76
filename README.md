@@ -6,7 +6,7 @@
 
 🤔 I am mainly interested in Document AI and Intelligent Document Processing topics.   
 
-📫 You can reach me [here](https://www.linkedin.com/in/dr-janis-meyer/).
+📫 You can reach me [here](https://www.linkedin.com/in/dr-janis-meyer/). Please understand, that I can only respond to commercial requests. If you need advice on how to use deepdoctection on your particular use-case, let me kindly point you to the issue or discussion section. 
 
 💬 Ask me about: Document AI, Information Extraction, ML Ops and of course LLMs 😄.
 
